@@ -3,7 +3,7 @@
   "description": "Get your wanted dice rolls!",
   "url": "https://github.com/nkkpao/fvtt-FakeDice",
   "manifest": "https://raw.githubusercontent.com/nkkpao/fvtt-FakeDice/main/module.json",
-  "download": "https://github.com/nkkpao/fvtt-FakeDice/releases/download/Ver0.0.6/fvtt-FakeDice-main.zip",
+  "download": "https://github.com/nkkpao/fvtt-FakeDice/archive/refs/tags/Ver0.0.6.zip",
   "bugs": "https://github.com/nkkpao/fvtt-FakeDice/issues",
   "flags": {
     "allowBugReporter": true

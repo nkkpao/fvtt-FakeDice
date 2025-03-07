@@ -28,10 +28,9 @@ Target Operators:
 ```
 
 # How To Install
-* You can get this module on [foundryVTT Module](https://foundryvtt.com/packages/fakedice)
 * You can install manually with this Manifest URL:
 ```
-https://raw.githubusercontent.com/JingShing/fvtt-FakeDice/main/module.json
+https://raw.githubusercontent.com/nkkpao/fvtt-FakeDice/main/module.json
 ```
 
 # How to make player using fake dice
